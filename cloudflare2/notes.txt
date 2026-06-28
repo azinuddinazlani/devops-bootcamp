@@ -1,0 +1,3 @@
+Buat server nginx dalam EC2 & setup domain ke elastic IP
+kesan proxy vs dns only 
+expose private service to internet using cloudflare tunnel
