@@ -1,0 +1,5 @@
+634236767068.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/azin:latest
+
+
+IMAGE       ID             DISK USAGE   CONTENT SIZE   EXTRA
+app:kecil   ce00d10d94d1       68.1MB             0B   U    
