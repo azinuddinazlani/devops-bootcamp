@@ -1,0 +1,7 @@
+Create index.html: a student card for DevOps Bootcamp 2026 cohort 1.
+Show my name azin, my cohort, and my role.
+Add a fade-in animation when the page loads.
+Give the badge a soft pulse and a gradient background.
+Use rounded corners and a gentle hover effect on the card.
+No external CSS or JS — everything in one file.
+Keep it clean, short, and easy to read.
